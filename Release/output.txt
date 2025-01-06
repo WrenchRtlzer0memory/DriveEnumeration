@@ -1,0 +1,2259 @@
+
+****************************************************
+Driver module name: \SystemRoot\system32\ntoskrnl.exe
+Base address: 0x70800000
+Image size: 0x1046000
+Flags: 0x8804080
+Id: 0
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\hal.dll
+Base address: 0x6DB40000
+Image size: 0x6000
+Flags: 0x8004080
+Id: 1
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\kd.dll
+Base address: 0x6DB50000
+Image size: 0xb000
+Flags: 0x8804080
+Id: 2
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\mcupdate_GenuineIntel.dll
+Base address: 0x6D8B0000
+Image size: 0x28f000
+Flags: 0x8004080
+Id: 3
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\CLFS.SYS
+Base address: 0x6DB90000
+Image size: 0x6e000
+Flags: 0x8004080
+Id: 4
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\tm.sys
+Base address: 0x6DB60000
+Image size: 0x29000
+Flags: 0xc004080
+Id: 5
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\PSHED.dll
+Base address: 0x6DC00000
+Image size: 0x1a000
+Flags: 0xc004080
+Id: 6
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\BOOTVID.dll
+Base address: 0x6DC20000
+Image size: 0xb000
+Flags: 0xc004000
+Id: 7
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\FLTMGR.SYS
+Base address: 0x6DC30000
+Image size: 0x6f000
+Flags: 0x8004080
+Id: 8
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\msrpc.sys
+Base address: 0x73350000
+Image size: 0x62000
+Flags: 0xc004080
+Id: 9
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\ksecdd.sys
+Base address: 0x73320000
+Image size: 0x29000
+Flags: 0x80040a0
+Id: 10
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\clipsp.sys
+Base address: 0x73200000
+Image size: 0x117000
+Flags: 0xc004000
+Id: 11
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\cmimcext.sys
+Base address: 0x6DCA0000
+Image size: 0xe000
+Flags: 0xc004080
+Id: 12
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\werkernel.sys
+Base address: 0x733C0000
+Image size: 0x11000
+Flags: 0xc004080
+Id: 13
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\ntosext.sys
+Base address: 0x733E0000
+Image size: 0xc000
+Flags: 0xc004080
+Id: 14
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\CI.dll
+Base address: 0x733F0000
+Image size: 0xec000
+Flags: 0xc0040a0
+Id: 15
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\cng.sys
+Base address: 0x734E0000
+Image size: 0xbb000
+Flags: 0x8004080
+Id: 16
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\Wdf01000.sys
+Base address: 0x735A0000
+Image size: 0xd1000
+Flags: 0x8004080
+Id: 17
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\WDFLDR.SYS
+Base address: 0x73680000
+Image size: 0x13000
+Flags: 0xc004080
+Id: 18
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\WppRecorder.sys
+Base address: 0x736B0000
+Image size: 0x11000
+Flags: 0xc004080
+Id: 19
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\SleepStudyHelper.sys
+Base address: 0x736A0000
+Image size: 0xf000
+Flags: 0xc004080
+Id: 20
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\Drivers\acpiex.sys
+Base address: 0x736D0000
+Image size: 0x26000
+Flags: 0x8004080
+Id: 21
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\SgrmAgent.sys
+Base address: 0x73700000
+Image size: 0x1a000
+Flags: 0x80040a0
+Id: 22
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\lxss.sys
+Base address: 0x73720000
+Image size: 0xa000
+Flags: 0x8004080
+Id: 23
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\LXCORE.SYS
+Base address: 0x73730000
+Image size: 0x119000
+Flags: 0xc004080
+Id: 24
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\ACPI.sys
+Base address: 0x73850000
+Image size: 0xcc000
+Flags: 0x8004080
+Id: 25
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\WMILIB.SYS
+Base address: 0x73920000
+Image size: 0xc000
+Flags: 0xc004080
+Id: 26
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\msisadrv.sys
+Base address: 0x73930000
+Image size: 0xb000
+Flags: 0x8004080
+Id: 27
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\pci.sys
+Base address: 0x73940000
+Image size: 0x78000
+Flags: 0x8004080
+Id: 28
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\tpm.sys
+Base address: 0x73A00000
+Image size: 0x45000
+Flags: 0x8004080
+Id: 29
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\intelpep.sys
+Base address: 0x73A50000
+Image size: 0x6b000
+Flags: 0x8004080
+Id: 30
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\WindowsTrustedRT.sys
+Base address: 0x739D0000
+Image size: 0x17000
+Flags: 0x8004080
+Id: 31
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\IntelTA.sys
+Base address: 0x739F0000
+Image size: 0xb000
+Flags: 0x8004080
+Id: 32
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\WindowsTrustedRTProxy.sys
+Base address: 0x73AC0000
+Image size: 0xb000
+Flags: 0x8004080
+Id: 33
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\pcw.sys
+Base address: 0x73AD0000
+Image size: 0x14000
+Flags: 0x80040a0
+Id: 34
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\vdrvroot.sys
+Base address: 0x73AF0000
+Image size: 0x15000
+Flags: 0x8004080
+Id: 35
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\pdc.sys
+Base address: 0x73B10000
+Image size: 0x30000
+Flags: 0x8004080
+Id: 36
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\CEA.sys
+Base address: 0x73B50000
+Image size: 0x19000
+Flags: 0xc004080
+Id: 37
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\partmgr.sys
+Base address: 0x73B70000
+Image size: 0x31000
+Flags: 0x8004080
+Id: 38
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\spaceport.sys
+Base address: 0x73BB0000
+Image size: 0xab000
+Flags: 0x8004080
+Id: 39
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\volmgr.sys
+Base address: 0x73C60000
+Image size: 0x19000
+Flags: 0x8004080
+Id: 40
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\volmgrx.sys
+Base address: 0x73C80000
+Image size: 0x63000
+Flags: 0x8004080
+Id: 41
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\DRIVERS\vsock.sys
+Base address: 0x73CF0000
+Image size: 0x18000
+Flags: 0x8004000
+Id: 42
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\vmci.sys
+Base address: 0x73D10000
+Image size: 0x1c000
+Flags: 0x8004000
+Id: 43
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\mountmgr.sys
+Base address: 0x73D30000
+Image size: 0x1e000
+Flags: 0x8004080
+Id: 44
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\storahci.sys
+Base address: 0x73D50000
+Image size: 0x32000
+Flags: 0x8004080
+Id: 45
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\storport.sys
+Base address: 0x73D90000
+Image size: 0xb5000
+Flags: 0xc004080
+Id: 46
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\stornvme.sys
+Base address: 0x73E50000
+Image size: 0x2f000
+Flags: 0x8004080
+Id: 47
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\EhStorClass.sys
+Base address: 0x73E80000
+Image size: 0x1c000
+Flags: 0x8004080
+Id: 48
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\fileinfo.sys
+Base address: 0x73EA0000
+Image size: 0x1a000
+Flags: 0x8004080
+Id: 49
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\Drivers\Wof.sys
+Base address: 0x73EC0000
+Image size: 0x40000
+Flags: 0x8004080
+Id: 50
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\wd\WdFilter.sys
+Base address: 0x73F10000
+Image size: 0x97000
+Flags: 0x80040a0
+Id: 51
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\Drivers\Ntfs.sys
+Base address: 0x73FB0000
+Image size: 0x2d7000
+Flags: 0x8004080
+Id: 52
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\Drivers\Fs_Rec.sys
+Base address: 0x74290000
+Image size: 0xd000
+Flags: 0x8004080
+Id: 53
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\ndis.sys
+Base address: 0x742A0000
+Image size: 0x170000
+Flags: 0x8004080
+Id: 54
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\NETIO.SYS
+Base address: 0x74420000
+Image size: 0x9c000
+Flags: 0xc004080
+Id: 55
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\Drivers\ksecpkg.sys
+Base address: 0x744C0000
+Image size: 0x33000
+Flags: 0x8004080
+Id: 56
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\tcpip.sys
+Base address: 0x74500000
+Image size: 0x2ed000
+Flags: 0x80040a0
+Id: 57
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\fwpkclnt.sys
+Base address: 0x747F0000
+Image size: 0x7f000
+Flags: 0xc004080
+Id: 58
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\wfplwfs.sys
+Base address: 0x74870000
+Image size: 0x30000
+Flags: 0x8004080
+Id: 59
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\VmsProxy.sys
+Base address: 0x748B0000
+Image size: 0x10000
+Flags: 0x8004080
+Id: 60
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\vmbkmclr.sys
+Base address: 0x748D0000
+Image size: 0x26000
+Flags: 0xc004080
+Id: 61
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\VmsProxyHNic.sys
+Base address: 0x74900000
+Image size: 0xf000
+Flags: 0x8004080
+Id: 62
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\DRIVERS\fvevol.sys
+Base address: 0x74910000
+Image size: 0xc8000
+Flags: 0x8004080
+Id: 63
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\volume.sys
+Base address: 0x749E0000
+Image size: 0xb000
+Flags: 0x8004080
+Id: 64
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\volsnap.sys
+Base address: 0x749F0000
+Image size: 0x6d000
+Flags: 0x8004080
+Id: 65
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\rdyboost.sys
+Base address: 0x74A60000
+Image size: 0x50000
+Flags: 0x8004080
+Id: 66
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\Drivers\mup.sys
+Base address: 0x74AC0000
+Image size: 0x26000
+Flags: 0x8004080
+Id: 67
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\iorate.sys
+Base address: 0x74AF0000
+Image size: 0x12000
+Flags: 0x80040a0
+Id: 68
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\disk.sys
+Base address: 0x74B30000
+Image size: 0x1d000
+Flags: 0x8004080
+Id: 69
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\CLASSPNP.SYS
+Base address: 0x74B50000
+Image size: 0x73000
+Flags: 0xc004080
+Id: 70
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\Drivers\crashdmp.sys
+Base address: 0x873A0000
+Image size: 0x1e000
+Flags: 0x49104000
+Id: 71
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\cdrom.sys
+Base address: 0x868A0000
+Image size: 0x30000
+Flags: 0x49104080
+Id: 72
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\filecrypt.sys
+Base address: 0x868E0000
+Image size: 0x15000
+Flags: 0x49104080
+Id: 73
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\tbs.sys
+Base address: 0x86900000
+Image size: 0xe000
+Flags: 0x4d104080
+Id: 74
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\UCPD.sys
+Base address: 0x86910000
+Image size: 0x15000
+Flags: 0x491040a0
+Id: 75
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\Drivers\Null.SYS
+Base address: 0x86930000
+Image size: 0xa000
+Flags: 0x49104080
+Id: 76
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\Drivers\Beep.SYS
+Base address: 0x86940000
+Image size: 0xa000
+Flags: 0x49104080
+Id: 77
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\dxgkrnl.sys
+Base address: 0x86950000
+Image size: 0x3aa000
+Flags: 0x491040a0
+Id: 78
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\watchdog.sys
+Base address: 0x86D00000
+Image size: 0x18000
+Flags: 0x4d104080
+Id: 79
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\DriverStore\FileRepository\basicdisplay.inf_amd64_19e58b6267591a82\BasicDisplay.sys
+Base address: 0x86D20000
+Image size: 0x16000
+Flags: 0x49104080
+Id: 80
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\DriverStore\FileRepository\basicrender.inf_amd64_d3f5994a67770b50\BasicRender.sys
+Base address: 0x86D40000
+Image size: 0x11000
+Flags: 0x49104080
+Id: 81
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\Drivers\Npfs.SYS
+Base address: 0x86D60000
+Image size: 0x1c000
+Flags: 0x49104080
+Id: 82
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\Drivers\Msfs.SYS
+Base address: 0x86D80000
+Image size: 0x11000
+Flags: 0x49104080
+Id: 83
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\Drivers\CimFS.SYS
+Base address: 0x86DA0000
+Image size: 0x1e000
+Flags: 0x49104080
+Id: 84
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\DRIVERS\tdx.sys
+Base address: 0x86DC0000
+Image size: 0x22000
+Flags: 0x49104080
+Id: 85
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\DRIVERS\TDI.SYS
+Base address: 0x86DF0000
+Image size: 0x10000
+Flags: 0x4d104080
+Id: 86
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\ws2ifsl.sys
+Base address: 0x86E10000
+Image size: 0xe000
+Flags: 0x49104080
+Id: 87
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\DRIVERS\netbt.sys
+Base address: 0x86E20000
+Image size: 0x5c000
+Flags: 0x49104080
+Id: 88
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\afunix.sys
+Base address: 0x86E80000
+Image size: 0x14000
+Flags: 0x49104080
+Id: 89
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\afd.sys
+Base address: 0x86EA0000
+Image size: 0xa8000
+Flags: 0x49104080
+Id: 90
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\DRIVERS\npcap.sys
+Base address: 0x86F50000
+Image size: 0x13000
+Flags: 0x49104000
+Id: 91
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\vwififlt.sys
+Base address: 0x86F70000
+Image size: 0x1a000
+Flags: 0x49104080
+Id: 92
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\vfpext.sys
+Base address: 0x86F90000
+Image size: 0x17d000
+Flags: 0x49104080
+Id: 93
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\pacer.sys
+Base address: 0x87110000
+Image size: 0x2b000
+Flags: 0x49104080
+Id: 94
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\ndiscap.sys
+Base address: 0x87140000
+Image size: 0x14000
+Flags: 0x49104080
+Id: 95
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\netbios.sys
+Base address: 0x87160000
+Image size: 0x14000
+Flags: 0x49104080
+Id: 96
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\Vid.sys
+Base address: 0x87180000
+Image size: 0xa1000
+Flags: 0x49104080
+Id: 97
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\winhvr.sys
+Base address: 0x87230000
+Image size: 0x22000
+Flags: 0x4d104080
+Id: 98
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\DRIVERS\rdbss.sys
+Base address: 0x87260000
+Image size: 0x7b000
+Flags: 0x49104080
+Id: 99
+
+****************************************************
+
+****************************************************
+Driver module name: \??\C:\Program Files (x86)\Bignox\BigNoxVM\RT\YSDrv.sys
+Base address: 0x872E0000
+Image size: 0x5d000
+Flags: 0x49104020
+Id: 100
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\DRIVERS\VBoxUSBMon.sys
+Base address: 0x87340000
+Image size: 0x3a000
+Flags: 0x49104020
+Id: 101
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\DRIVERS\VBoxSup.sys
+Base address: 0x884C0000
+Image size: 0x12b000
+Flags: 0x49104020
+Id: 102
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\nsiproxy.sys
+Base address: 0x88400000
+Image size: 0x12000
+Flags: 0x49104080
+Id: 103
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\npsvctrig.sys
+Base address: 0x88420000
+Image size: 0xe000
+Flags: 0x49104080
+Id: 104
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\mssmbios.sys
+Base address: 0x88430000
+Image size: 0x10000
+Flags: 0x49104080
+Id: 105
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\DRIVERS\gvm.sys
+Base address: 0x896A0000
+Image size: 0x274000
+Flags: 0x49104000
+Id: 106
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\gpuenergydrv.sys
+Base address: 0x89920000
+Image size: 0xa000
+Flags: 0x49104080
+Id: 107
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\Drivers\dfsc.sys
+Base address: 0x89930000
+Image size: 0x2c000
+Flags: 0x49104080
+Id: 108
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\Drivers\fastfat.SYS
+Base address: 0x89980000
+Image size: 0x6d000
+Flags: 0x49104080
+Id: 109
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\cbfilter22.sys
+Base address: 0x89200000
+Image size: 0x6d000
+Flags: 0x49104020
+Id: 110
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\bam.sys
+Base address: 0x89270000
+Image size: 0x17000
+Flags: 0x491040a0
+Id: 111
+
+****************************************************
+
+****************************************************
+Driver module name: \??\C:\Program Files (x86)\ASUS\ATK Package\ATK WMIACPI\atkwmiacpi64.sys
+Base address: 0x89290000
+Image size: 0x9000
+Flags: 0x49104000
+Id: 112
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\DRIVERS\ahcache.sys
+Base address: 0x892A0000
+Image size: 0x52000
+Flags: 0x49104080
+Id: 113
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\vmbusr.sys
+Base address: 0x89300000
+Image size: 0x48000
+Flags: 0x49104080
+Id: 114
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\hvsocket.sys
+Base address: 0x89350000
+Image size: 0x2a000
+Flags: 0x4d104080
+Id: 115
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\vmswitch.sys
+Base address: 0x89380000
+Image size: 0x271000
+Flags: 0x49104080
+Id: 116
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\DRIVERS\VBoxNetAdp6.sys
+Base address: 0x89600000
+Image size: 0x57000
+Flags: 0x49104020
+Id: 117
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\DriverStore\FileRepository\compositebus.inf_amd64_7500cffa210c6946\CompositeBus.sys
+Base address: 0x89660000
+Image size: 0x12000
+Flags: 0x49104080
+Id: 118
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\kdnic.sys
+Base address: 0x89680000
+Image size: 0xd000
+Flags: 0x49104080
+Id: 119
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\DriverStore\FileRepository\umbus.inf_amd64_b78a9c5b6fd62c27\umbus.sys
+Base address: 0x89960000
+Image size: 0x15000
+Flags: 0x49104080
+Id: 120
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\CAD.sys
+Base address: 0x88450000
+Image size: 0x15000
+Flags: 0x49104080
+Id: 121
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\DriverStore\FileRepository\nvam.inf_amd64_df112b165ca03156\nvlddmkm.sys
+Base address: 0x8EEF0000
+Image size: 0x168b000
+Flags: 0x49104020
+Id: 122
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_51f685305808e3a5\igdkmd64.sys
+Base address: 0x9A900000
+Image size: 0x2a33000
+Flags: 0x49104000
+Id: 123
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\USBXHCI.SYS
+Base address: 0x9D340000
+Image size: 0x9d000
+Flags: 0x49104080
+Id: 124
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\ucx01000.sys
+Base address: 0x9A200000
+Image size: 0x44000
+Flags: 0x49104080
+Id: 125
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\iaLPSS2i_I2C.sys
+Base address: 0x9A250000
+Image size: 0x2f000
+Flags: 0x49104000
+Id: 126
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\SpbCx.sys
+Base address: 0x9A280000
+Image size: 0x1a000
+Flags: 0x49104080
+Id: 127
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\TeeDriverW8x64.sys
+Base address: 0x9A2A0000
+Image size: 0x34000
+Flags: 0x49104000
+Id: 128
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\Netwtw04.sys
+Base address: 0xA2C20000
+Image size: 0x891000
+Flags: 0x49104000
+Id: 129
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\DRIVERS\wdiwifi.sys
+Base address: 0xA34C0000
+Image size: 0xf2000
+Flags: 0x49104080
+Id: 130
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\vwifibus.sys
+Base address: 0xA35C0000
+Image size: 0xe000
+Flags: 0x49104080
+Id: 131
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\rt640x64.sys
+Base address: 0xA1E00000
+Image size: 0xad000
+Flags: 0x49104080
+Id: 132
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\RtsP2Stor.sys
+Base address: 0xA1EB0000
+Image size: 0x55000
+Flags: 0x49104000
+Id: 133
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\HDAudBus.sys
+Base address: 0xA1F10000
+Image size: 0x27000
+Flags: 0x49104080
+Id: 134
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\portcls.sys
+Base address: 0xA1F40000
+Image size: 0x66000
+Flags: 0x4d104080
+Id: 135
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\drmk.sys
+Base address: 0xA1FB0000
+Image size: 0x21000
+Flags: 0x4d104000
+Id: 136
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\ks.sys
+Base address: 0xA1FE0000
+Image size: 0x78000
+Flags: 0x4d104080
+Id: 137
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\CmBatt.sys
+Base address: 0xA2060000
+Image size: 0xf000
+Flags: 0x49104080
+Id: 138
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\BATTC.SYS
+Base address: 0xA2070000
+Image size: 0x10000
+Flags: 0x4d104080
+Id: 139
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\wmiacpi.sys
+Base address: 0xA2090000
+Image size: 0xc000
+Flags: 0x49104080
+Id: 140
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\intelppm.sys
+Base address: 0xA20A0000
+Image size: 0x41000
+Flags: 0x49104080
+Id: 141
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\acpipagr.sys
+Base address: 0xA20F0000
+Image size: 0xb000
+Flags: 0x49104080
+Id: 142
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\AsRadioControl.sys
+Base address: 0xA2100000
+Image size: 0xa000
+Flags: 0x49104000
+Id: 143
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\HIDCLASS.SYS
+Base address: 0xA2110000
+Image size: 0x41000
+Flags: 0x4d104080
+Id: 144
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\HIDPARSE.SYS
+Base address: 0xA2160000
+Image size: 0x13000
+Flags: 0x4d104080
+Id: 145
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\DriverStore\FileRepository\uefi.inf_amd64_c1628ffa62c8e54c\UEFI.sys
+Base address: 0xA2180000
+Image size: 0xe000
+Flags: 0x49104080
+Id: 146
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\vpcivsp.sys
+Base address: 0xA2190000
+Image size: 0x37000
+Flags: 0x49104080
+Id: 147
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\storvsp.sys
+Base address: 0xA21D0000
+Image size: 0x32000
+Flags: 0x49104080
+Id: 148
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\nvvad64v.sys
+Base address: 0xA2210000
+Image size: 0x10000
+Flags: 0x41104020
+Id: 149
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\ksthunk.sys
+Base address: 0xA2230000
+Image size: 0x11000
+Flags: 0x49104080
+Id: 150
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\NvModuleTracker.sys
+Base address: 0xA2250000
+Image size: 0xd000
+Flags: 0x41104020
+Id: 151
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\nvvhci.sys
+Base address: 0xA2260000
+Image size: 0x10000
+Flags: 0x41104020
+Id: 152
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\USBD.SYS
+Base address: 0xA22B0000
+Image size: 0xe000
+Flags: 0x4d104080
+Id: 153
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\NdisVirtualBus.sys
+Base address: 0xA22C0000
+Image size: 0xd000
+Flags: 0x49104080
+Id: 154
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\DriverStore\FileRepository\swenum.inf_amd64_16a14542b63c02af\swenum.sys
+Base address: 0xA22D0000
+Image size: 0xc000
+Flags: 0x49104080
+Id: 155
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\IndirectDisplayBus.sys
+Base address: 0xA22E0000
+Image size: 0xa000
+Flags: 0x49104000
+Id: 156
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\logi_joy_bus_enum.sys
+Base address: 0xA22F0000
+Image size: 0xb000
+Flags: 0x49104000
+Id: 157
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\logi_joy_xlcore.sys
+Base address: 0xA2300000
+Image size: 0x12000
+Flags: 0x49104000
+Id: 158
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\rdpbus.sys
+Base address: 0xA2320000
+Image size: 0xe000
+Flags: 0x49104080
+Id: 159
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\ftser2k.sys
+Base address: 0xA2330000
+Image size: 0x1b000
+Flags: 0x49104000
+Id: 160
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\serenum.sys
+Base address: 0xA2350000
+Image size: 0xf000
+Flags: 0x49104080
+Id: 161
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\UsbHub3.sys
+Base address: 0xA2380000
+Image size: 0xa3000
+Flags: 0x49104080
+Id: 162
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\hidi2c.sys
+Base address: 0xA2550000
+Image size: 0x15000
+Flags: 0x49104080
+Id: 163
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\mshidkmdf.sys
+Base address: 0xA2570000
+Image size: 0xb000
+Flags: 0x49104080
+Id: 164
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\RTKVHD64.sys
+Base address: 0xA2580000
+Image size: 0x655000
+Flags: 0x49104000
+Id: 165
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\DriverStore\FileRepository\intcdaud.inf_amd64_718877413f6508de\IntcDAud.sys
+Base address: 0xA2430000
+Image size: 0x55000
+Flags: 0x49104000
+Id: 166
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\mouhid.sys
+Base address: 0xA2490000
+Image size: 0x10000
+Flags: 0x49104080
+Id: 167
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\mouclass.sys
+Base address: 0xA24B0000
+Image size: 0x13000
+Flags: 0x49104080
+Id: 168
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\AsusPTPFilter.sys
+Base address: 0xA24D0000
+Image size: 0x1c000
+Flags: 0x49104000
+Id: 169
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\MTConfig.sys
+Base address: 0xA24F0000
+Image size: 0xc000
+Flags: 0x49104080
+Id: 170
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\usbccgp.sys
+Base address: 0xA2500000
+Image size: 0x34000
+Flags: 0x49104080
+Id: 171
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\hidusb.sys
+Base address: 0xA2BE0000
+Image size: 0x12000
+Flags: 0x49104080
+Id: 172
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\DRIVERS\ibtusb.sys
+Base address: 0xA35D0000
+Image size: 0x22000
+Flags: 0x49104000
+Id: 173
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\BTHUSB.sys
+Base address: 0xA2280000
+Image size: 0x21000
+Flags: 0x49104080
+Id: 174
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\BTHport.sys
+Base address: 0x9A2E0000
+Image size: 0x187000
+Flags: 0x49104080
+Id: 175
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\Drivers\usbvideo.sys
+Base address: 0x9A470000
+Image size: 0x56000
+Flags: 0x49104080
+Id: 176
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\kbdhid.sys
+Base address: 0xA2C00000
+Image size: 0x11000
+Flags: 0x49104080
+Id: 177
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\kbdclass.sys
+Base address: 0xA2360000
+Image size: 0x14000
+Flags: 0x49104080
+Id: 178
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\win32k.sys
+Base address: 0x3D050000
+Image size: 0x9b000
+Flags: 0x69104000
+Id: 179
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\win32kbase.sys
+Base address: 0x3CA00000
+Image size: 0x2d7000
+Flags: 0x69104000
+Id: 180
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\win32kfull.sys
+Base address: 0x3D270000
+Image size: 0x3b4000
+Flags: 0x69104000
+Id: 181
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\Drivers\dump_dumpstorport.sys
+Base address: 0x9A690000
+Image size: 0xf000
+Flags: 0x49104000
+Id: 182
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\dump_stornvme.sys
+Base address: 0x9A6D0000
+Image size: 0x2f000
+Flags: 0x49104000
+Id: 183
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\Drivers\dump_dumpfve.sys
+Base address: 0x9A720000
+Image size: 0x1d000
+Flags: 0x49104020
+Id: 184
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\dxgmms2.sys
+Base address: 0x9A740000
+Image size: 0xdf000
+Flags: 0x49104080
+Id: 185
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\monitor.sys
+Base address: 0x9A820000
+Image size: 0x1b000
+Flags: 0x49104080
+Id: 186
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\cdd.dll
+Base address: 0x3D630000
+Image size: 0x49000
+Flags: 0x69104000
+Id: 187
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\WUDFRd.sys
+Base address: 0x9A840000
+Image size: 0x54000
+Flags: 0x49104080
+Id: 188
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\IndirectKmd.sys
+Base address: 0x9A8A0000
+Image size: 0x12000
+Flags: 0x49104080
+Id: 189
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\luafv.sys
+Base address: 0x9A8C0000
+Image size: 0x2d000
+Flags: 0x49104080
+Id: 190
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\wcifs.sys
+Base address: 0x90580000
+Image size: 0x37000
+Flags: 0x49104080
+Id: 191
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\mmcss.sys
+Base address: 0x9D3E0000
+Image size: 0x14000
+Flags: 0x49104080
+Id: 192
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\rdpvideominiport.sys
+Base address: 0x9A8F0000
+Image size: 0xd000
+Flags: 0x49104080
+Id: 193
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\cldflt.sys
+Base address: 0x8EE00000
+Image size: 0x82000
+Flags: 0x49104080
+Id: 194
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\storqosflt.sys
+Base address: 0x8EE90000
+Image size: 0x1a000
+Flags: 0x49104080
+Id: 195
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\bindflt.sys
+Base address: 0x8EEB0000
+Image size: 0x28000
+Flags: 0x49104080
+Id: 196
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\rdpdr.sys
+Base address: 0x88470000
+Image size: 0x2f000
+Flags: 0x49104080
+Id: 197
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\DRIVERS\bowser.sys
+Base address: 0x873C0000
+Image size: 0x25000
+Flags: 0x49104080
+Id: 198
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\msquic.sys
+Base address: 0x86800000
+Image size: 0x56000
+Flags: 0x49104080
+Id: 199
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\DRIVERS\mrxsmb.sys
+Base address: 0xB4B80000
+Image size: 0x94000
+Flags: 0x49104080
+Id: 200
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\DRIVERS\mrxsmb20.sys
+Base address: 0xB4C20000
+Image size: 0x45000
+Flags: 0x49104080
+Id: 201
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\condrv.sys
+Base address: 0xB4C70000
+Image size: 0x12000
+Flags: 0x49104080
+Id: 202
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\hvsocketcontrol.sys
+Base address: 0xB4C90000
+Image size: 0xd000
+Flags: 0x49104080
+Id: 203
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\DRIVERS\vmnetbridge.sys
+Base address: 0xB4CA0000
+Image size: 0x12000
+Flags: 0x49104000
+Id: 204
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\DRIVERS\VMNET.SYS
+Base address: 0xB4CC0000
+Image size: 0xc000
+Flags: 0x4d104000
+Id: 205
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\lltdio.sys
+Base address: 0xB4CD0000
+Image size: 0x18000
+Flags: 0x49104080
+Id: 206
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\mslldp.sys
+Base address: 0xB4CF0000
+Image size: 0x18000
+Flags: 0x49104080
+Id: 207
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\rspndr.sys
+Base address: 0xB4D10000
+Image size: 0x1b000
+Flags: 0x49104080
+Id: 208
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\DRIVERS\vmnetuserif.sys
+Base address: 0xB4D30000
+Image size: 0xb000
+Flags: 0x49104000
+Id: 209
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\ndisuio.sys
+Base address: 0xB4D40000
+Image size: 0x18000
+Flags: 0x49104080
+Id: 210
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\DRIVERS\nwifi.sys
+Base address: 0xB3E00000
+Image size: 0xbf000
+Flags: 0x49104080
+Id: 211
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\vhdparser.sys
+Base address: 0xB3EC0000
+Image size: 0x11000
+Flags: 0x49104080
+Id: 212
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\FsDepends.sys
+Base address: 0xB3EE0000
+Image size: 0x16000
+Flags: 0x49104080
+Id: 213
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\vhdmp.sys
+Base address: 0xB3F00000
+Image size: 0xd4000
+Flags: 0x49104080
+Id: 214
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\HTTP.sys
+Base address: 0xB3FE0000
+Image size: 0x188000
+Flags: 0x49104080
+Id: 215
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\mpsdrv.sys
+Base address: 0xB4170000
+Image size: 0x1a000
+Flags: 0x49104080
+Id: 216
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\vwifimp.sys
+Base address: 0xB4190000
+Image size: 0x13000
+Flags: 0x49104080
+Id: 217
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\DRIVERS\vmx86.sys
+Base address: 0xB41B0000
+Image size: 0x23000
+Flags: 0x49104000
+Id: 218
+
+****************************************************
+
+****************************************************
+Driver module name: \??\C:\WINDOWS\system32\drivers\IntelHaxm.sys
+Base address: 0xB41E0000
+Image size: 0x31000
+Flags: 0x49104000
+Id: 219
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\DRIVERS\hcmon.sys
+Base address: 0xB4220000
+Image size: 0x16000
+Flags: 0x49104000
+Id: 220
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\DRIVERS\srvnet.sys
+Base address: 0xB4240000
+Image size: 0x56000
+Flags: 0x49104080
+Id: 221
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\Ndu.sys
+Base address: 0xB42A0000
+Image size: 0x27000
+Flags: 0x49104080
+Id: 222
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\DRIVERS\srv2.sys
+Base address: 0xB42D0000
+Image size: 0xc8000
+Flags: 0x49104080
+Id: 223
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\peauth.sys
+Base address: 0xB43A0000
+Image size: 0xd6000
+Flags: 0x49104000
+Id: 224
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\tcpipreg.sys
+Base address: 0xB4480000
+Image size: 0x15000
+Flags: 0x49104080
+Id: 225
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\p9rdr.sys
+Base address: 0xB44A0000
+Image size: 0x1b000
+Flags: 0x49104080
+Id: 226
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\rassstp.sys
+Base address: 0xB44C0000
+Image size: 0x1d000
+Flags: 0x49104080
+Id: 227
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\DRIVERS\NDProxy.sys
+Base address: 0xB44E0000
+Image size: 0x1d000
+Flags: 0x49104080
+Id: 228
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\AgileVpn.sys
+Base address: 0xB4500000
+Image size: 0x28000
+Flags: 0x49104080
+Id: 229
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\rasl2tp.sys
+Base address: 0xB4530000
+Image size: 0x21000
+Flags: 0x49104080
+Id: 230
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\raspptp.sys
+Base address: 0xB4560000
+Image size: 0x21000
+Flags: 0x49104080
+Id: 231
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\DRIVERS\raspppoe.sys
+Base address: 0xB4590000
+Image size: 0x1c000
+Flags: 0x49104080
+Id: 232
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\DRIVERS\ndistapi.sys
+Base address: 0xB45B0000
+Image size: 0xf000
+Flags: 0x49104080
+Id: 233
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\ndiswan.sys
+Base address: 0xB45C0000
+Image size: 0x3a000
+Flags: 0x49104080
+Id: 234
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\winnat.sys
+Base address: 0xB4660000
+Image size: 0x49000
+Flags: 0x49104080
+Id: 235
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\wd\WdNisDrv.sys
+Base address: 0xB46B0000
+Image size: 0x1d000
+Flags: 0x49104080
+Id: 236
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\system32\drivers\qwavedrv.sys
+Base address: 0xB4790000
+Image size: 0x14000
+Flags: 0x49104080
+Id: 237
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\vmusb.sys
+Base address: 0xB4820000
+Image size: 0x11000
+Flags: 0x49104000
+Id: 238
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\DriverStore\FileRepository\rogms.inf_amd64_1a978b89f16e1813\ROGMS.sys
+Base address: 0xB4840000
+Image size: 0xb000
+Flags: 0x49104000
+Id: 239
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\rfcomm.sys
+Base address: 0xB4860000
+Image size: 0x3d000
+Flags: 0x49104080
+Id: 240
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\BthEnum.sys
+Base address: 0xB48A0000
+Image size: 0x22000
+Flags: 0x49104080
+Id: 241
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\bthpan.sys
+Base address: 0xB48D0000
+Image size: 0x26000
+Flags: 0x49104080
+Id: 242
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\Microsoft.Bluetooth.Legacy.LEEnumerator.sys
+Base address: 0xB4900000
+Image size: 0x21000
+Flags: 0x49104080
+Id: 243
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\BthA2dp.sys
+Base address: 0xB4930000
+Image size: 0x4c000
+Flags: 0x49104080
+Id: 244
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\btampm.sys
+Base address: 0xB4980000
+Image size: 0x11000
+Flags: 0x4d104080
+Id: 245
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\Microsoft.Bluetooth.AvrcpTransport.sys
+Base address: 0xB49A0000
+Image size: 0x17000
+Flags: 0x49104080
+Id: 246
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\bthhfenum.sys
+Base address: 0xB49C0000
+Image size: 0x2b000
+Flags: 0x49104080
+Id: 247
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\BthHfAud.sys
+Base address: 0xB49F0000
+Image size: 0x16000
+Flags: 0x49104080
+Id: 248
+
+****************************************************
+
+****************************************************
+Driver module name: \SystemRoot\System32\drivers\umpass.sys
+Base address: 0xB4A10000
+Image size: 0xb000
+Flags: 0x49104080
+Id: 249
+
+****************************************************
+
+****************************************************
+Driver module name: \??\C:\ProgramData\Microsoft\Windows Defender\Definition Updates\{9A0CF97E-0A67-466B-9207-CB6C6BB6C569}\MpKslDrv.sys
+Base address: 0xB4AA0000
+Image size: 0x45000
+Flags: 0x491040a0
+Id: 250
+
+****************************************************
